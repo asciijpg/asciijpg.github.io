@@ -1,4 +1,4 @@
 ![asciijpg background](/img/background.png)
-# Some text
+# a s c i i j p g
 [asciijpg@gmail.com](asciijpg@gmail.com)
 
